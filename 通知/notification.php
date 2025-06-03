@@ -187,7 +187,7 @@ session_start();
                     <div class="form-check">
                         <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
                         <label class="form-check-label" for="flexCheckDefault">
-                          在乞丐時到時通知我。
+                          在乞丐時間到時通知我。
                         </label>
                     </div>
                     
