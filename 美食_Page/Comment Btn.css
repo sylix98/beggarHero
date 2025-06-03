@@ -1,0 +1,20 @@
+.comment-btn-container {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#comment-btn {
+    background-color: #BC4B51;
+    color: white;
+    border: none;
+    border-radius: 60px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
