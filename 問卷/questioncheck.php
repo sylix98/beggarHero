@@ -7,7 +7,7 @@ if (!isset($_SESSION['email'])) {
     exit();
 }
 
-$link = @mysqli_connect('localhost', 'root', '0000', 'finalproject');
+$link = @mysqli_connect('localhost', 'root', '', 'finalproject');
 
 if (!$link) {
     die("無法開啟資料庫!<br/>");
